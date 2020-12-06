@@ -1,0 +1,16 @@
+{
+    "name": "WeatherApp",
+    "short_name": "WeatherApp",
+    "start_url": "http://127.0.0.1:5500/index.html",
+    "display": "standalone",
+    "background_color": "#6c7a89",
+    "description": "Weather Forecast Application",
+    "theme_color": "#6c7a89",
+    "icons": [
+      {
+        "src": "Images/Splash_Logo.svg",
+        "sizes": "150x150",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
